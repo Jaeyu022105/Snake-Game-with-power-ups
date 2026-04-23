@@ -1,6 +1,63 @@
-# Snake-Game-with-power-ups
-A modern Snake game developed in C# featuring power-ups.
+# MACHINE PROJECT - SnakeRun by Jaime
+Course Code: IT111L
+Course Title: CONCEPTS IN OBJECT ORIENTED PROGRAMMING (LABORATORY)
 
-Download release at the right to play/test the program 
+This project is a GUI-based Snake game called SnakeRun. The game includes a loading screen, main menu, gameplay screen, about screen, leaderboard, and score entry screen. The player controls a snake, collects food, avoids obstacles, and uses power-ups while progressing through increasing levels.
 
-Have fun! :) 
+INSTRUCTIONS:
+
+-STARTING THE GAME-
+
+1 - OPEN SnakeRun.exe
+
+2 - WAIT FOR THE LOADING SCREEN TO FINISH
+
+3 - CLICK PLAY TO START THE GAME
+
+-CONTROLS-
+
+1 - USE THE ARROW KEYS TO MOVE THE SNAKE
+
+2 - PRESS ESC TO SHOW OR HIDE THE CURSOR
+
+3 - PRESS ENTER AFTER GAME OVER TO CONTINUE
+
+-GAMEPLAY-
+
+1 - EAT NORMAL FOOD TO INCREASE SCORE AND LENGTH
+
+2 - EAT SPECIAL FOOD TO ACTIVATE POWER-UPS
+
+3 - AVOID HITTING WALLS, OBSTACLES, AND THE SNAKE'S OWN BODY
+
+4 - USE PORTALS WHEN THEY APPEAR ON THE GRID
+
+5 - THE GRID INCREASES BY 1 EVERY LEVEL UP
+
+-POWER-UPS-
+
+1 - BONUS SCORE
+
+2 - SPEED BOOST
+
+3 - REVERSE CONTROLS
+
+4 - SLOW MOTION
+
+5 - EXTRA LIFE
+
+-OTHER FEATURES-
+
+1 - LEADERBOARD SYSTEM FOR PLAYER SCORES
+
+2 - FULLSCREEN INTERFACE WITH UNIFORM WINDOW TRANSITIONS
+
+3 - LOADING SCREEN WITH ASSET BUFFERING
+
+4 - ABOUT SCREEN AND MENU NAVIGATION
+
+-REQUIREMENTS-
+
+1 - WINDOWS OPERATING SYSTEM
+
+2 - .NET Framework 4.8 INSTALLED TO RUN THE GAME
