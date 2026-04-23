@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|c:\\users\\jaime\\documents\\snakerunmp\\snakegamelibrary\\snakegamelibrary\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|solutionrelative:snakegamelibrary\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\snakegamelibrary\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|solutionrelative:snakegamelibrary\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\snakegamelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|solutionrelative:snakegamelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\snakegamelibrary\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD8D7A4-CC4F-4E6B-AA74-29991265EC3B}|SnakeGameLibrary\\SnakeGameLibrary.csproj|solutionrelative:snakegamelibrary\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Button.cs",
+              "RelativeDocumentMoniker": "SnakeGameLibrary\\Button.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Button.cs",
+              "RelativeToolTip": "SnakeGameLibrary\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:51:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "SnakeGameLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class1.cs",
+              "RelativeToolTip": "SnakeGameLibrary\\Class1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:04:24.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class3.cs",
+              "RelativeDocumentMoniker": "SnakeGameLibrary\\Class3.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class3.cs",
+              "RelativeToolTip": "SnakeGameLibrary\\Class3.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAIwCQCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:45:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class5.cs",
+              "RelativeDocumentMoniker": "SnakeGameLibrary\\Class5.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\SnakeRunMP\\SnakeGameLibrary\\SnakeGameLibrary\\Class5.cs*",
+              "RelativeToolTip": "SnakeGameLibrary\\Class5.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:26:11.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
